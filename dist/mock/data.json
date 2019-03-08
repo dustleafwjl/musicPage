@@ -1,0 +1,47 @@
+[
+    {
+        "image": "/source/sou-img/saytrue.jpg",
+        "audio": "/source/sou-song/讲真的.mp3",
+        "song": "讲真的",
+        "album": "÷",
+        "singer": "随便",
+        "duration": 240,
+        "isLike": true
+    },
+    {
+        "image": "/source/sou-img/yellowboy.jpg",
+        "audio": "/source/sou-song/Shape Of You (小黄人版).mp3",
+        "song": "Shape of You (小黄人版)",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    },
+    {
+        "image": "/source/sou-img/song_1.jpg",
+        "audio": "/source/sou-song/song_1.mp3",
+        "song": "丑八怪",
+        "album": "意外",
+        "singer": "薛之谦",
+        "duration": 253,
+        "isLike": true
+    },
+    {
+        "image": "/source/sou-img/song_2.jpg",
+        "audio": "/source/sou-song/song_2.mp3",
+        "song": "小半",
+        "album": "小梦大半",
+        "singer": "陈粒",
+        "duration": 297,
+        "isLike": false
+    },
+    {
+        "image": "/source/sou-img/song_3.jpg",
+        "audio": "/source/sou-song/song_3.mp3",
+        "song": "Shape of You",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    }
+]
